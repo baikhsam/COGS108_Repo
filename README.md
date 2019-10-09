@@ -1,2 +1,4 @@
 # COGS108_Repo
- COGS108 @UCSD
+ Repository for COGS108 @UCSD
+ Sam Baik
+ Cognitive Science Major
